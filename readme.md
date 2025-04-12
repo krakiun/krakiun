@@ -1,64 +1,65 @@
-# 👋 Salut! Eu sunt Crăciun Florentin Simion
+# 👋 Hey, I’m Crăciun Florentin Simion
 
-## 🧠 Tech Strategist • Digital Architect • Visionary Thinker
+## 🧠 Digital Strategist • Tech Architect • Visionary Thinker
 
-> „Nu vând timp pe bani. Construiesc soluții care lucrează pentru oameni. Automat. Scalabil. Fără haos.”
+> “I don’t sell time for money. I build systems that work for people. Automated. Scalable. Chaos-free.”
 
 ---
 
-### 🎯 Cine sunt?
+### 🎯 About Me
 
-Sunt un **strateg digital, investitor și explorator al lumii online**, pasionat de inovație, securitate, automatizare și scalare.  
-Lucrez în tăcere. Gândesc în perspectivă. Creez în profunzime. Nu urmez trenduri, le anticipez.
+I’m a **digital strategist, investor, and explorer of the online frontier**, driven by innovation, cybersecurity, and automation.  
+I think long-term. I act silently. I create deeply.  
+I don't follow trends — I **predict and engineer** them.
 
-- 🧬 Expert în: Python, AI Tools, Automatizări, Reverse Engineering, Securitate Cibernetică
-- 🔐 Nu ofer consultanță. Nu fac freelancing. Nu „vând timp”.
-- 🚀 Creez produse care funcționează, vorbesc singure și rezolvă probleme reale.
+- 🧬 Deep expertise: Python, AI Automation, Reverse Engineering, Cybersecurity, Digital Scalability
+- 🔐 No services. No freelancing. No hourly rates.
+- 🚀 I build solutions that solve real-world problems. Period.
 
 ---
 
 ### 🧰 Tech Stack
 
 `Python` • `FastAPI` • `OpenAI API` • `Firebase` • `WebSockets` • `Flutter` • `Docker`  
-`AI Tooling` • `Task Automation` • `Reverse Engineering` • `Cyber Security` • `Zero UI Logic`
+`AI Tooling` • `Task Automation` • `Reverse Engineering` • `Cybersecurity` • `Zero-UI Logic`
 
 ---
 
-### 📦 Ce găsești pe GitHub-ul meu?
+### 📦 What You’ll Find Here
 
-🛠️ Proiecte testate în realitate, nu demo-uri teoretice  
-📈 Soluții lansate, unele monetizate, altele donate comunității  
-⚙️ Cod care lucrează pentru mine, nu ca să dau bine în interviuri
-
----
-
-### 🧭 Viziune
-
-> „Nu cer încredere oarbă. Dacă ideile și tool-urile de aici îți sunt utile, folosește-le. Dacă nu, e perfect în regulă.”
-
-Nu cred în superficial. Nu construiesc pentru aplauze.  
-Cred în profunzime, rezultate reale și parteneriate strategice.  
-Caut minți care rezonează, nu validare.
+🛠️ Real-world projects — not demos or tutorials  
+📈 Tools that I use in my businesses or give away to the community  
+⚙️ Code that *works* — built for automation, not aesthetics
 
 ---
 
-### 🧩 Proiecte recente
+### 🧭 My Philosophy
 
-- [🌾 Bursa de cereale](https://krakiun.com) – Marketplace agricol cu protecție identitate
-- [🧠 AutoChatAI] – Taskbot AI personal scalabil
-- [🎯 Examen Vânătoare App] – Aplicație de chestionare inteligentă
-- [🔧 Vulcanizare Mobilă] – Rețea on-demand cu logică geografică
+> “Don’t trust me blindly — trust the clarity of what I build.”
+
+I don’t build for applause.  
+I don’t play by the rules of flashy online fame.  
+I build quietly, precisely, and with long-term impact in mind.
 
 ---
 
-### 📫 Hai să creăm ceva împreună?
+### 🧩 Some Projects
 
-Nu caut prieteni de bere. Caut colaboratori vizionari.  
-Dacă rezonezi cu ideile mele, contactează-mă:
+- [🌾 Grain Exchange Marketplace](https://krakiun.com) – Anonymized agricultural marketplace
+- [🧠 AutoChatAI] – Personal AI taskbot infrastructure  
+- [🎯 Hunter Exam App] – Smart quiz system for national certification  
+- [🔧 Mobile Tire Fix] – Geo-based on-demand vulcanization network
+
+---
+
+### 📫 Let's Create Something Real
+
+I’m not looking for casual friendships or shallow connections.  
+I’m looking for visionary minds who want to **build real, lasting systems**.
 
 **🔗 [krakiun.com](https://krakiun.com)**  
 **📩 contact@krakiun.com**
 
 ---
 
-> *„Într-o lume zgomotoasă, tăcerea strategică e cel mai puternic mesaj.”*
+> *“In a noisy world, strategic silence is the loudest message.”*

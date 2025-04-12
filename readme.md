@@ -45,10 +45,7 @@ I build quietly, precisely, and with long-term impact in mind.
 
 ### 🧩 Some Projects
 
-- [🌾 Grain Exchange Marketplace](https://krakiun.com) – Anonymized agricultural marketplace
-- [🧠 AutoChatAI] – Personal AI taskbot infrastructure  
-- [🎯 Hunter Exam App] – Smart quiz system for national certification  
-- [🔧 Mobile Tire Fix] – Geo-based on-demand vulcanization network
+- [🌾 Grain Exchange Marketplace](https://bursadecereale.com) – Anonymized agricultural marketplace
 
 ---
 

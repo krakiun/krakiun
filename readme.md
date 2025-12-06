@@ -43,12 +43,6 @@ I build quietly, precisely, and with long-term impact in mind.
 
 ---
 
-### 🧩 Some Projects
-
-- [🌾 Grain Exchange Marketplace](https://bursadecereale.com) – Anonymized agricultural marketplace
-
----
-
 ### 📫 Let's Create Something Real
 
 I’m not looking for casual friendships or shallow connections.  
